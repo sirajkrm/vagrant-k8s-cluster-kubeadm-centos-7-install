@@ -6,11 +6,11 @@ Vagrant file to create a Kubernetes Cluster on CentOS 7. <br />
 Kubernetes Version: 1.19.0  <br />
 Docker CE Version: 19.03  <br />
 
-all you need to to do:
-have vagrant and virtualbox well installed
-clone this repo
-type: vagrant up
-enjoy cup of coffee while cluster being ready
+all you need to to do: <br />
+have vagrant and virtualbox well installed <br />
+clone this repo <br />
+type: vagrant up <br />
+enjoy cup of coffee while cluster being ready <br />
 
 NOTES:
 
