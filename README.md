@@ -1,10 +1,10 @@
 # vagrant-provision-K8S-cluster-on-centos-7
 
-Vagrant file to create a Kubernetes Cluster on CentOS 7.
-1 Core node
-2 Worker nodes
-Kubernetes Version: 1.19.0
-Docker CE Version: 19.03
+Vagrant file to create a Kubernetes Cluster on CentOS 7. <br />
+1 Core node  <br />
+2 Worker nodes  <br />
+Kubernetes Version: 1.19.0  <br />
+Docker CE Version: 19.03  <br />
 
 NOTES:
 
