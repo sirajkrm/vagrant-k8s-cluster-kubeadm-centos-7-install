@@ -18,7 +18,7 @@ NOTES:
 I had an issue with public network conflicts <br />
 
 2- I used weave net for this installation <br />
-I read couple article being good and having feature same as Flannel and Calico <br/>
+I read couple articles about it being good and having feature same as Flannel and Calico <br/>
 Weave net support encryption.. you may need some additional resources <br />
 
 3- container restart <br />
